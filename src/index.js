@@ -1,2 +1,5 @@
 let a = 999;
-const arrray = [1, 2, 3, 4, 5];
+
+let c = 100;
+
+var diffoo = true;
