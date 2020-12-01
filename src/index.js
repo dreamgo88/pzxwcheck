@@ -2,4 +2,4 @@ let a = 999;
 
 let c = 100;
 
-var diffoo = true;
+let arrray = [232323, 232321, 42213];
