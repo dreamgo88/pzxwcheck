@@ -7,4 +7,4 @@ const arrray = {
     age: 38
 }
 
-const yyjq = [11];
+const yyjq = [11, 99];
