@@ -4,5 +4,5 @@ let c = 100;
 
 const arrray = {
     name: 'renren',
-    age: 17
+    age: 29
 }
